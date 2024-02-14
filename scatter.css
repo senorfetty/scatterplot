@@ -1,0 +1,20 @@
+body{
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    background-color: rgb(105, 100, 100);
+}
+
+svg {
+    background-color:rgb(142, 160, 160);
+    font-size: x-large;
+}
+
+#legend {
+    font-size: x-large;
+    text-align: center;
+}
+
+span {
+    color: rgb(232, 225, 237);
+}
